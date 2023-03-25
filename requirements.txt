@@ -1,0 +1,6 @@
+streamlit
+pandas
+pydeck
+fuzzywuzzy
+nltk
+openpyxl
